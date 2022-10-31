@@ -91,6 +91,7 @@ export default class TryGlassessApp extends Component {
               position: "absolute",
               top: 95,
               left: 75,
+              opacity: 0.8,
             }}
           >
             <img src={url} width={150} alt="" />
